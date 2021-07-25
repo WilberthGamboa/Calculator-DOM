@@ -1,0 +1,35 @@
+.grilla{
+    display: grid;
+    grid-template-columns:repeat(4,1fr);
+}
+
+.grilla :nth-child(1){
+    background-color: lightgray;
+}
+.grilla :nth-child(2){
+    background-color: blue;
+}
+.grilla :nth-child(3){
+    background-color: blue;
+}
+.grilla :nth-child(4){
+    background-color: blue;
+}
+.grilla :nth-child(5){
+    background-color: blue;
+}
+.grilla :nth-child(6){
+    background-color: blue;
+}
+.grilla :nth-child(7){
+    background-color: blue;
+}
+.grilla :nth-child(8){
+    background-color: blue;
+}
+.grilla :nth-child(9){
+    background-color: blue;
+}
+.grilla :nth-child(10){
+    background-color: blue;
+}
